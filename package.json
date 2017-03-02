@@ -19,6 +19,12 @@
                     "name": "send_18p",
                     "targetPlatforms": null,
                     "type": "bitmap"
+                },
+                {
+                    "file": "images/1.png",
+                    "name": "1_png",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
                 }
             ]
         },
